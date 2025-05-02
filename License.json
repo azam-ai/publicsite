@@ -15,7 +15,7 @@
   "Status":"active",
   "ExpDate":"2025-12-31",
   "HardDisk":"204357801463",
-  "MaxMessageLimit":2000,
+  "MaxMessageLimit":3000,
   "MessageForClient":"",
   "CanSendImage":true,
   "CanSendFile":true,
