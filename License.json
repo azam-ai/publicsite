@@ -46,7 +46,7 @@
 {
   "FullName":"Demo",
   "Status":"active",
-  "ExpDate":"2025-05-30",
+  "ExpDate":"2025-12-30",
   "HardDisk":"Demo123",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
