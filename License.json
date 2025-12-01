@@ -47,7 +47,7 @@
   "FullName":"WhatsApp Msg Demo",
   "Status":"active",
   "ExpDate":"2025-12-31",
-  "HardDisk":"Unknow Device",
+  "HardDisk":"WhatsAppDemo",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
