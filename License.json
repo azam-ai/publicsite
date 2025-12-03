@@ -1,4 +1,15 @@
 [
+  {
+  "FullName":"Furqan",
+  "Status":"active",
+  "ExpDate":"2025-12-31",
+  "HardDisk":"bcf53114-a787-4cd9-a46a-ceaf6e4de312",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":true,
+  "CanSendFile":true,
+  "Version":"20250123-0.0.1"
+  },
 {
   "FullName":"Noor Muhammad",
   "Status":"active",
