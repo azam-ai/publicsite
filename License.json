@@ -24,8 +24,7 @@
   {
   "FullName":"Educator",
   "Status":"active",
-  "ExpDate":"2025-02-28",
-  "HardDisk":"204357801463",
+  "ExpDate":"2026-5-30", "HardDisk":"199033eb-0c44-4684-af7a-782e37dbc35b",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
