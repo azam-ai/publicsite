@@ -1,4 +1,15 @@
 [
+ {
+  "FullName":"GPS",
+  "Status":"active",
+  "ExpDate":"2025-12-31",
+  "HardDisk":"4ccd8ba-ab60-4b84-8ef1-b8848a2ced0e",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
    {
   "FullName":"Azeem Talent School",
   "Status":"active",
