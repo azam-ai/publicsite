@@ -2,7 +2,7 @@
  {
   "FullName":"GPS",
   "Status":"active",
-  "ExpDate":"2025-12-31",
+  "ExpDate":"2026-06-30",
   "HardDisk":"f4ccd8ba-ab60-4b84-8ef1-b8848a2ced0e",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
@@ -15,17 +15,6 @@
   "Status":"active",
   "ExpDate":"2025-12-31",
   "HardDisk":"07472a9e-c083-43b8-902c-810620f16449",
-  "MaxMessageLimit":2000,
-  "MessageForClient":"",
-  "CanSendImage":false,
-  "CanSendFile":false,
-  "Version":"20250123-0.0.1"
-  },
-  {
-  "FullName":"Qasim DeskTop Machine",
-  "Status":"active",
-  "ExpDate":"2025-12-31",
-  "HardDisk":"cc3dd4be-9b4a-4be8-b16d-30c7459731bd",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":false,
@@ -78,7 +67,7 @@
  {
   "FullName":"Azam-Office-Laptop",
   "Status":"active",
-  "ExpDate":"2025-12-31",
+  "ExpDate":"2026-12-31",
   "HardDisk":"b76abc4a-016b-404c-b65a-6376d0b7fa06",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
