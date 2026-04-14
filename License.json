@@ -10,6 +10,17 @@
   "CanSendFile":false,
   "Version":"20250123-0.0.1"
   },
+  {
+  "FullName":"American Lyceum",
+  "Status":"active",
+  "ExpDate":"2026-06-30",
+  "HardDisk":"23a99db8-b29d-439a-9494-9b5e49773e50",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  }, 
    {
   "FullName":"Azeem Talent School",
   "Status":"active",
