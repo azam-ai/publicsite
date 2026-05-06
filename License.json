@@ -1,9 +1,20 @@
 [
   {
+  "FullName":"unknown",
+  "Status":"active",
+  "ExpDate":"2026-06-30",
+  "HardDisk":"9b1dfba5-fb32-4921-bd1b-e38ed7b1b35f",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
+  {
   "FullName":"Hope School",
   "Status":"active",
   "ExpDate":"2026-06-30",
-  "HardDisk":"f127bd3c-f8c6-488f-bc58-38221424d889",
+  "HardDisk":"f1bd3c-f8c6-488f-bc58-38221424d889",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":false,
