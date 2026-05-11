@@ -1,5 +1,16 @@
 [
   {
+  "FullName":"TKS",
+  "Status":"active",
+  "ExpDate":"2026-06-30",
+  "HardDisk":"0688992d-1089-4e39-9f24-659b5e949d2b",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
+  {
   "FullName":"The Knowledge Scool",
   "Status":"active",
   "ExpDate":"2026-06-30",
