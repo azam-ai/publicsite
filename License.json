@@ -1,5 +1,15 @@
 [
-  
+  {
+  "FullName":"The Knowledge Scool",
+  "Status":"active",
+  "ExpDate":"2026-06-30",
+  "HardDisk":"ffd386ab-b51a-47f8-b0a3-2ad4a16cd849",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
   {
   "FullName":"American lyceum school",
   "Status":"active",
