@@ -2,7 +2,7 @@
   {
   "FullName":"TKS",
   "Status":"active",
-  "ExpDate":"2026-06-30",
+  "ExpDate":"2026-12-30",
   "HardDisk":"0688992d-1089-4e39-9f24-659b5e949d2b",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
@@ -13,7 +13,7 @@
   {
   "FullName":"The Knowledge Scool",
   "Status":"active",
-  "ExpDate":"2026-06-30",
+  "ExpDate":"2026-12-30",
   "HardDisk":"ffd386ab-b51a-47f8-b0a3-2ad4a16cd849",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
@@ -24,7 +24,7 @@
   {
   "FullName":"American lyceum school",
   "Status":"active",
-  "ExpDate":"2026-06-30",
+  "ExpDate":"2026-12-30",
   "HardDisk":"23a99db8-b29d-439a-9494-9b5e49773e50",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
@@ -35,7 +35,7 @@
   {
   "FullName":"Azeem talent high school",
   "Status":"active",
-  "ExpDate":"2026-06-30",
+  "ExpDate":"2026-12-30",
   "HardDisk":"9b1dfba5-fb32-4921-bd1b-e38ed7b1b35f",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
@@ -46,7 +46,7 @@
   {
   "FullName":"Hope School",
   "Status":"active",
-  "ExpDate":"2026-06-30",
+  "ExpDate":"2026-12-30",
   "HardDisk":"f1bd3c-f8c6-488f-bc58-38221424d889",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
@@ -57,7 +57,7 @@
  {
   "FullName":"GPS",
   "Status":"active",
-  "ExpDate":"2026-06-30",
+  "ExpDate":"2026-12-30",
   "HardDisk":"f4ccd8ba-ab60-4b84-8ef1-b8848a2ced0e",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
@@ -101,7 +101,7 @@
   {
   "FullName":"Educator",
   "Status":"active",
-  "ExpDate":"2026-5-30", "HardDisk":"199033eb-0c44-4684-af7a-782e37dbc35b",
+  "ExpDate":"2026-12-30", "HardDisk":"199033eb-0c44-4684-af7a-782e37dbc35b",
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":true,
