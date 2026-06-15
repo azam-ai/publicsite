@@ -1,4 +1,15 @@
 [
+    {
+  "FullName":"Leads Grammer School",
+  "Status":"active",
+  "ExpDate":"2026-12-30",
+  "HardDisk":"332a8b2f-34a3-4dfe-8426-dd0fcf678f3c",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
   {
   "FullName":"TKS",
   "Status":"active",
