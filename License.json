@@ -1,4 +1,16 @@
 [
+ 
+{
+  "FullName":"Allama Iqbal School Narowal",
+  "Status":"active",
+  "ExpDate":"2026-12-30",
+  "HardDisk":"189a9bd2-b95a-40db-96d5-5ecf10d51b0b",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
 {
   "FullName":"Noor Muhammad",
   "Status":"active",
