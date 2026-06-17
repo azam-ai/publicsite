@@ -1,5 +1,15 @@
 [
- 
+ {
+  "FullName":"Tabanda School",
+  "Status":"active",
+  "ExpDate":"2026-12-30",
+  "HardDisk":"aab70f84-39c0-432e-b5db-48709b13563a",
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
 {
   "FullName":"Allama Iqbal School Narowal",
   "Status":"active",
