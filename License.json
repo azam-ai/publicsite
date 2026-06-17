@@ -1,4 +1,16 @@
 [
+{
+  "FullName":"Tabanda School",
+  "Status":"active",
+  "ExpDate":"2026-12-30",
+  "HardDisk":"86cc9245-67bb-4b6e-9e12-9dfc0d4e6368" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
+
  {
   "FullName":"Tabanda School",
   "Status":"active",
