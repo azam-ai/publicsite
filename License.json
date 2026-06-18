@@ -1,4 +1,15 @@
 [
+  {
+  "FullName":"Capital School",
+  "Status":"active",
+  "ExpDate":"2026-12-30",
+  "HardDisk":"4e29a8dd-0fc0-4cfb-ac52-cbd5762fffd4" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
 {
   "FullName":"Tabanda School",
   "Status":"active",
