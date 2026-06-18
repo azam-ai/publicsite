@@ -1,4 +1,15 @@
 [
+    {
+  "FullName":"Force School",
+  "Status":"active",
+  "ExpDate":"2026-12-30",
+  "HardDisk":"268cae53-4056-4bfe-be08-5ec64f7f7f3d" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
   {
   "FullName":"Capital School",
   "Status":"active",
