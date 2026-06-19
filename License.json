@@ -1,4 +1,15 @@
 [
+{
+  "FullName":"GPS Darman School",
+  "Status":"active",
+  "ExpDate":"2026-12-30",
+  "HardDisk":"e4eeaac1-3ab8-4550-9750-2029f34fe3ca" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
     {
   "FullName":"Force School",
   "Status":"active",
