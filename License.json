@@ -1,5 +1,16 @@
 [
   {
+  "FullName":"Leads Grammer School Abot Rd",
+  "Status":"active",
+  "ExpDate":"2026-12-30",
+  "HardDisk":"4b9b64e3-a3f1-4f60-9b90-163ad0baa878" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
+  {
   "FullName":"Leadership School",
   "Status":"active",
   "ExpDate":"2026-12-30",
