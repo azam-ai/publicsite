@@ -1,9 +1,9 @@
 [
-{
-  "FullName":"Zeenat Muslim School"'
+  {
+  "FullName":"Zeenat Muslim School",
   "Status":"active",
   "ExpDate":"2026-12-30",
-  "HardDisk":"a9f5df97-730e-4e8f-b270-f030267aec1d",
+  "HardDisk":"a9f5df97-730e-4e8f-b270-f030267aec1d" ,
   "MaxMessageLimit":2000,
   "MessageForClient":"",
   "CanSendImage":false,
