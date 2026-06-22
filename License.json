@@ -1,5 +1,16 @@
 [
   {
+  "FullName":"Leadership School",
+  "Status":"active",
+  "ExpDate":"2026-12-30",
+  "HardDisk":"36d336c6-c05b-4792-b172-8f5041878dab" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+  },
+  {
   "FullName":"Zeenat Muslim School",
   "Status":"active",
   "ExpDate":"2026-12-30",
