@@ -1,4 +1,16 @@
 [
+  
+{
+  "FullName":"The Educator",
+  "Status":"active",
+  "ExpDate":"2026-12-30", 
+  "HardDisk":"4d4d727a-beb2-47c1-a024-cf8bd4e31e5b" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+},
 {
   "FullName":"Hope School",
   "Status":"active",
