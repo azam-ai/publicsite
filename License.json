@@ -1,5 +1,26 @@
 [
-  
+{
+  "FullName":"Capital School",
+  "Status":"active",
+  "ExpDate":"2026-12-30", 
+  "HardDisk":"0ae35899-c140-4532-a801-005b451af131" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+},
+{
+  "FullName":"Lead Grammer School",
+  "Status":"active",
+  "ExpDate":"2026-12-30", 
+  "HardDisk":"1f39c42f-7887-47dc-b2d0-773213ff5409" ,
+  "MaxMessageLimit":2000,
+  "MessageForClient":"",
+  "CanSendImage":false,
+  "CanSendFile":false,
+  "Version":"20250123-0.0.1"
+},
 {
   "FullName":"The Educator",
   "Status":"active",
